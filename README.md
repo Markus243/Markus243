@@ -3,7 +3,6 @@
 **Electronic Engineer & Full-Stack Developer** at **Nuvio Software**.  
 > **System Definition:** > **Programmer** (n): A biological machine that turns **Coffee** ☕ into **Code** 💻.
 
-
 ### Technical Expertise
 
 * Hardware: Embedded C++, IoT Architectures, Signal Processing
@@ -13,7 +12,6 @@
 
 * **BEng (Electronic)**  University of Pretoria
 
----
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mj-mulder) 
