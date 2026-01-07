@@ -6,12 +6,12 @@
 
 ### Technical Expertise
 
-* ** Hardware:** Embedded C++, IoT Architectures, Signal Processing
-* ** Software:** C# / .NET Core, PostgreSQL, Flutter
+* Hardware: Embedded C++, IoT Architectures, Signal Processing
+* Software: C# / .NET Core, PostgreSQL, Flutter
 
 ### Background
 
-* **BEng (Electronic)** * University of Pretoria
+* **BEng (Electronic)**  University of Pretoria
 
 ---
 
