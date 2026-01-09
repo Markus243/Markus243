@@ -1,7 +1,7 @@
 # About Me
 
 **Electronic Engineer & Full-Stack Developer** at **Nuvio Software**.  
-> **System Definition:** > **Programmer** (n): A biological machine that turns **Coffee** ☕ into **Code** 💻.
+>  A biological machine that turns **Coffee** ☕ into **Code** 💻.
 
 ### Technical Expertise
 
