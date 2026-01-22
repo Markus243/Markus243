@@ -22,7 +22,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Markus243&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Markus243&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Markus243&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## You can help me by Donating
+
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/markusjmul6) 
 
   
