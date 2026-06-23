@@ -10,7 +10,7 @@ and the apps on top.
 
 #### 🚀 Currently
 - Building full-stack IoT & telemetry systems end to end
-- Exploring scalable backend architectures and the Go ecosystem
+- Exploring scalable backend architectures
 
 #### 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
