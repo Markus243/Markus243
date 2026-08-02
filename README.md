@@ -9,8 +9,8 @@ and the apps on top.
 🎓 BEng (Electronic), University of Pretoria
 
 #### 🚀 Currently
-- Building full-stack IoT & telemetry systems end to end
-- Exploring scalable backend architectures
+- Building IoT & telemetry systems end to end
+- Developing scalable full-stack solutions
 
 #### 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
