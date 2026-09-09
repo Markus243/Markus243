@@ -1,11 +1,11 @@
 ### Hi, I'm Markus 👋
 
-**Electronic Engineer & Full-Stack Developer** at Nuvio Software — I work
+**Electronic Engineer & Full-Stack Developer** at Nuvio Software - I work
 across the whole stack, from embedded firmware on the metal to cloud backends
 and the apps on top.
 
-🔧 **Hardware** — Embedded C++, IoT architectures, signal processing
-💻 **Software** — C# / .NET Core, PostgreSQL, Flutter
+🔧 **Hardware** - Embedded C++, IoT architectures, signal processing
+💻 **Software** - C# / .NET Core, PostgreSQL, Flutter
 🎓 BEng (Electronic), University of Pretoria
 
 #### 🛠️ Tech Stack
