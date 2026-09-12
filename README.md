@@ -25,4 +25,4 @@ BEng (Electronic), University of Pretoria
   <img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="64" alt="AWS Certified Cloud Practitioner">
 </a>
 
-AWS Certified Cloud Practitioner
+AWS Certified AI Practitioner
