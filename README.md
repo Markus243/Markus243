@@ -1,28 +1,76 @@
-## Markus
+# **Markus Mulder**
+
+**`Electronic Engineer | Full-Stack Developer | Embedded to Cloud`**
 
 Electronic engineer and full-stack developer at Nuvio Software. I work across
 the whole stack, from embedded firmware up to cloud backends and the apps that
 sit on top of them.
 
-BEng (Electronic), University of Pretoria
+<p align="left">🎓 BEng (Electronic), University of Pretoria</p>
 
-### Tech stack
+<p align="left">💼 Developer at Nuvio Software</p>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+<p align="left">📍 Pretoria, South Africa</p>
 
-### Certifications
+## 📚 **Tech stack**
+
+**` 🔌 Embedded `**
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" title="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" title="Arduino" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="Raspberry Pi" title="Raspberry Pi" />
+</div>
+
+**` 🖥️ Backend `**
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" title="C#" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt=".NET" title=".NET" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python" />
+</div>
+
+**` 📱 Mobile `**
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" title="Dart" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" title="Flutter" />
+</div>
+
+**` ☁️ Cloud and data `**
+
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/aws-dark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" title="AWS" />
+  </picture>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" title="PostgreSQL" />
+</div>
+
+## 🏅 **Certifications**
 
 <a href="https://www.credly.com/badges/ac5d0820-e663-4c58-8635-26bf1104518c/linked_in_profile">
-  <img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="64" alt="AWS Certified Cloud Practitioner">
+  <img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="80" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" />
 </a>
 
 AWS Certified AI Practitioner
+
+## 📈 **GitHub activity**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Markus243&theme=dark&hide_border=true" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Markus243&theme=default&hide_border=true" />
+</picture>
+
+## 🐍 **Snake commits**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Markus243/Markus243/output/github-snake-dark.svg" />
+  <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/Markus243/Markus243/output/github-snake.svg" />
+</picture>
